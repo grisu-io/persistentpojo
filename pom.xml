@@ -33,7 +33,7 @@
     <dependency>
       <groupId>com.github.grisu-io</groupId>
       <artifactId>pojo</artifactId>
-      <version>29952186563c8c0aca2c369da847aa617f8b498d</version>
+      <version>02509e5300fc98db0cd090909aa5c991308c01c3</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
